@@ -2,5 +2,4 @@
 .idea/*
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-test.py
-*/.DS_Store
+*/.DS_Store/*
